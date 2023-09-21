@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+h1{
+    color: teal;
+}
+.section1 label{
+    float: left;
+    width: 6em;
+    margin-bottom: 0.5em;
+}
+input[type="text"], input[type="email"], input[type="number"]{
+    width: 15em;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+}
+br {
+    margin-left: 0.5em;
+}
+input[type="gender"]{
+    width: 15em;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+}
+input[type="checkbox"]{
+    margin-left: 2em;
+    margin-bottom: 2em;
+}
+select{
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+input[type="submit"]{
+    margin-bottom: 3em;
+}
